@@ -1,7 +1,7 @@
 # my-app
     Alexandria M Southern
     alexandriamsouthern@gmail.com
-    3 August 2020
+    
 ## Project setup
 ```
 npm install
